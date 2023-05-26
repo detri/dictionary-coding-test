@@ -1,5 +1,7 @@
 # Unique Sequence Dictionary Parser
 
+Based on/fulfills requirements of: https://gist.github.com/seanbiganski/11180933
+
 This repo parses unique sequences of characters from words across a dictionary file,
 or a newline-delimited list of words. By default, it uses the file `src/dictionary_words`.
 
